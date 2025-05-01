@@ -1,0 +1,4 @@
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystem\obj\Debug\net9.0\SmartHomeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystem\obj\Debug\net9.0\SmartHomeSystem.AssemblyInfoInputs.cache
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystem\obj\Debug\net9.0\SmartHomeSystem.AssemblyInfo.cs
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystem\obj\Debug\net9.0\SmartHomeSystem.csproj.CoreCompileInputs.cache

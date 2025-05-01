@@ -1,0 +1,14 @@
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\obj\Debug\net9.0-windows\SmartHomeSystemWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\obj\Debug\net9.0-windows\SmartHomeSystemWinForms.AssemblyInfoInputs.cache
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\obj\Debug\net9.0-windows\SmartHomeSystemWinForms.AssemblyInfo.cs
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\obj\Debug\net9.0-windows\SmartHomeSystemWinForms.csproj.CoreCompileInputs.cache
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\bin\Debug\net9.0-windows\SmartHomeSystemWinForms.exe
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\bin\Debug\net9.0-windows\SmartHomeSystemWinForms.deps.json
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\bin\Debug\net9.0-windows\SmartHomeSystemWinForms.runtimeconfig.json
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\bin\Debug\net9.0-windows\SmartHomeSystemWinForms.dll
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\bin\Debug\net9.0-windows\SmartHomeSystemWinForms.pdb
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\obj\Debug\net9.0-windows\SmartHomeSystemWinForms.dll
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\obj\Debug\net9.0-windows\refint\SmartHomeSystemWinForms.dll
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\obj\Debug\net9.0-windows\SmartHomeSystemWinForms.pdb
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\obj\Debug\net9.0-windows\SmartHomeSystemWinForms.genruntimeconfig.cache
+C:\Users\aaqib\SmartHomeSystem\SmartHomeSystemWinForms\obj\Debug\net9.0-windows\ref\SmartHomeSystemWinForms.dll

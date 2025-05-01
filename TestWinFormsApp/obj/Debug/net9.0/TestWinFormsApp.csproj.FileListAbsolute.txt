@@ -1,0 +1,4 @@
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp\obj\Debug\net9.0\TestWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp\obj\Debug\net9.0\TestWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp\obj\Debug\net9.0\TestWinFormsApp.AssemblyInfo.cs
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp\obj\Debug\net9.0\TestWinFormsApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mLdiBwEJi2A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaqib\\SmartHomeSystem\\SmartHomeSystemWinForms\\SmartHomeSystemWinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaqib\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

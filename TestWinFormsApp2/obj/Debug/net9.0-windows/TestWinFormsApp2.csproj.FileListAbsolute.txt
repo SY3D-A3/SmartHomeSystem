@@ -1,0 +1,14 @@
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\bin\Debug\net9.0-windows\TestWinFormsApp2.exe
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\bin\Debug\net9.0-windows\TestWinFormsApp2.deps.json
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\bin\Debug\net9.0-windows\TestWinFormsApp2.runtimeconfig.json
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\bin\Debug\net9.0-windows\TestWinFormsApp2.dll
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\bin\Debug\net9.0-windows\TestWinFormsApp2.pdb
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\obj\Debug\net9.0-windows\TestWinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\obj\Debug\net9.0-windows\TestWinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\obj\Debug\net9.0-windows\TestWinFormsApp2.AssemblyInfo.cs
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\obj\Debug\net9.0-windows\TestWinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\obj\Debug\net9.0-windows\TestWinFormsApp2.dll
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\obj\Debug\net9.0-windows\refint\TestWinFormsApp2.dll
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\obj\Debug\net9.0-windows\TestWinFormsApp2.pdb
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\obj\Debug\net9.0-windows\TestWinFormsApp2.genruntimeconfig.cache
+C:\Users\aaqib\SmartHomeSystem\TestWinFormsApp2\obj\Debug\net9.0-windows\ref\TestWinFormsApp2.dll
